@@ -12,7 +12,6 @@ const MakeConstruction = () => {
               className="text-black text-[20px] font-medium leading-[120%] xl:mb-4 mb-2"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               MAKE UNIQUE
@@ -21,7 +20,6 @@ const MakeConstruction = () => {
               className="text-[#025066] xl:text-[48px] xs:text-[32px] text-[28px] font-bold leading-[116%] xl:w-[286px]"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Construction building.
@@ -30,7 +28,6 @@ const MakeConstruction = () => {
               className="text-[#4E8594] xs:text-base text-sm font-normal leading-[138%] xl:mt-[33px] mt-3 xl:mb-[35px] mb-3 xl:max-w-[446px]"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
@@ -50,7 +47,6 @@ const MakeConstruction = () => {
               className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               VIEW PROJECTS
@@ -61,10 +57,9 @@ const MakeConstruction = () => {
             <div className="lg:mt-12">
               <img
                 src={HouseWithShadow}
-                alt="HouseWithShadow"
+                alt="HouseWithShadow" className="w-full"
                 data-aos="fade-left"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               />
             </div>

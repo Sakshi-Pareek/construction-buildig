@@ -34,17 +34,16 @@ const BuildingGallery = () => {
           <div className="flex flex-row flex-wrap lg:justify-between justify-center gap-5">
             {data.map((a, index) => (
               <div
-                className="lg:w-[32.2%] sm:w-[48%]"
+                className="xl:w-[32.2%] lg:w-[31.5%] sm:w-[48%]"
                 key={index}
                 data-aos="flip-left"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 <img
                   src={a.image}
                   alt="cardimg"
-                  className="hover:shadow-[2px_5px_8px_#333333] transition-all duration-300 ease-linear cursor-pointer"
+                  className="hover:shadow-[2px_5px_8px_#333333] transition-all duration-300 ease-linear cursor-pointer w-full"
                 />
               </div>
             ))}

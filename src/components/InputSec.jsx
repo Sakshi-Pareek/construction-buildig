@@ -51,7 +51,6 @@ const InputSec = () => {
                   className="border-[#025066] border bg-white rounded-md py-[14px] px-[14px] w-full text-[#A7A7A7] text-[14px] font-medium leading-[142.857%] outline-none"
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 />
                 <input
@@ -63,7 +62,6 @@ const InputSec = () => {
                   className="border-[#025066] border bg-white rounded-md py-[14px] px-[14px] w-full text-[#A7A7A7] text-[14px] font-medium leading-[142.857%] outline-none"
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 />
                 <input
@@ -74,7 +72,6 @@ const InputSec = () => {
                   className="border-[#025066] border bg-white rounded-md py-[14px] px-[14px] w-full text-[#A7A7A7] text-[14px] font-medium leading-[142.857%] outline-none"
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 />
                 <input
@@ -85,13 +82,11 @@ const InputSec = () => {
                   className="border-[#025066] border bg-white rounded-md pt-[14px] xl:pb-[93px] pb-[70px] px-[14px] w-full text-[#A7A7A7] text-[14px] font-medium leading-[142.857%] outline-none"
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 />
                 <div
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 >
                   <button
@@ -109,7 +104,6 @@ const InputSec = () => {
                 className="lg:text-white text-[#025066] xl:text-[61px] lg:text-[50px] sm:text-[42px] text-[34px] font-normal leading-[106%] lg:max-w-[348px] lg:text-right lg:mb-8 mb-4 lg:ml-auto"
                 data-aos="fade-left"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 How we can help you?
@@ -118,7 +112,6 @@ const InputSec = () => {
                 className="lg:text-white text-[#025066] text-base font-normal leading-[normal] ml-auto lg:max-w-[325px] lg:text-right lg:mb-10 mb-4"
                 data-aos="fade-left"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 Quisque vel nisl blandit sem tempor dignissim. Sed maximus
@@ -128,7 +121,6 @@ const InputSec = () => {
                 className="lg:text-white text-[#025066] text-base font-normal leading-[139.687%] lg:text-right mb-2.5"
                 data-aos="fade-left"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 Phone Number:
@@ -140,7 +132,6 @@ const InputSec = () => {
                 className="lg:text-white text-[#025066] text-base font-normal leading-[139.687%] lg:text-right"
                 data-aos="fade-left"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 Address:

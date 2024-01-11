@@ -20,7 +20,6 @@ const Testimonials = () => {
           className="text-black text-[20px] font-medium leading-[120%] lg:mb-[19px] mb-4 text-center"
           data-aos="zoom-out"
           data-aos-duration="1000"
-          data-aos-delay="200"
           data-aos-easing="linear"
         >
           TESTIMONIALS
@@ -29,7 +28,6 @@ const Testimonials = () => {
           className="text-[#025066] lg:text-[48px] sm:text-[32px] text-[28px] font-bold leading-[118%] text-center lg:mb-12 mb-6"
           data-aos="zoom-out"
           data-aos-duration="1000"
-          data-aos-delay="200"
           data-aos-easing="linear"
         >
           What Clients say about us
@@ -38,7 +36,6 @@ const Testimonials = () => {
           className="flex"
           data-aos="zoom-out"
           data-aos-duration="1000"
-          data-aos-delay="200"
           data-aos-easing="linear"
         >
           <div className="md:w-2/12 w-[10%] flex flex-col items-start">

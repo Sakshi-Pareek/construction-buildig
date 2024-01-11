@@ -14,7 +14,6 @@ const OtherServices = () => {
               className="text-black text-[20px] font-medium leading-[120%] xl:mb-6 mb-2"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               OTHER SERVICES
@@ -23,7 +22,6 @@ const OtherServices = () => {
               className="text-[#025066] xl:text-[48px] xs:text-[32px] text-[28px] font-bold leading-[117%] xl:w-[420px] xl:mb-[44px] md:mb-6 mb-4"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Gates Construction Company
@@ -32,7 +30,6 @@ const OtherServices = () => {
               className="text-[#025066] text-[25px] font-normal leading-[139.687%] xl:mb-[17px] mb-3"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Best Builing Material
@@ -41,7 +38,6 @@ const OtherServices = () => {
               className="text-base font-normal leading-[139.687%] text-[#4E8594] xl:w-[470px] xl:mb-[33px] mb-4"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
@@ -52,7 +48,6 @@ const OtherServices = () => {
               className="text-[#025066] text-[25px] font-normal leading-[139.687%] xl:mb-[17px] mb-3"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Experience Workers
@@ -61,7 +56,6 @@ const OtherServices = () => {
               className="text-base font-normal leading-[139.687%] text-[#4E8594] xl:w-[470px] xl:mb-[33px] mb-4"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
@@ -72,7 +66,6 @@ const OtherServices = () => {
               className="text-[#025066] text-[25px] font-normal leading-[139.687%] xl:mb-[17px] mb-3"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Modern Technologies
@@ -81,7 +74,6 @@ const OtherServices = () => {
               className="text-base font-normal leading-[139.687%] text-[#4E8594] xl:w-[470px]"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
@@ -93,10 +85,9 @@ const OtherServices = () => {
             <img
               src={Worker}
               alt="Worker"
-              className="w-full "
+              className="w-full"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             />
           </div>

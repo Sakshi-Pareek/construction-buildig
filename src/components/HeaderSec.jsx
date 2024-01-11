@@ -21,7 +21,7 @@ const HeaderSec = () => {
           >
             <li onClick={() => setshow(!show)}>
               <a
-                className="text-[#025066] uppercase hover:font-medium transition-all duration-500 ease-linear flex font-normal text-[16px]"
+                className="text-[#025066] uppercase navlink transition-all duration-500 ease-linear flex font-normal text-[16px]"
                 href="#home"
               >
                 HOME
@@ -29,7 +29,7 @@ const HeaderSec = () => {
             </li>
             <li onClick={() => setshow(!show)}>
               <a
-                className="text-[#025066] uppercase  hover:font-medium transition-all duration-500 ease-linear font-normal text-[16px] flex"
+                className="text-[#025066] uppercase navlink transition-all duration-500 ease-linear font-normal text-[16px] flex"
                 href="#PORTFOLIO"
               >
                 PORTFOLIO
@@ -37,7 +37,7 @@ const HeaderSec = () => {
             </li>
             <li onClick={() => setshow(!show)}>
               <a
-                className="text-[#025066] uppercase  hover:font-medium transition-all duration-500 ease-linear font-normal text-[16px]"
+                className="text-[#025066] uppercase navlink transition-all duration-500 ease-linear font-normal text-[16px]"
                 href="#BLOG"
               >
                 BLOG
@@ -45,7 +45,7 @@ const HeaderSec = () => {
             </li>
             <li onClick={() => setshow(!show)}>
               <a
-                className="text-[#025066] uppercase  hover:font-medium transition-all duration-500 ease-linear font-normal text-[16px]"
+                className="text-[#025066] uppercase navlink transition-all duration-500 ease-linear font-normal text-[16px]"
                 href="#CONTACT"
               >
                 CONTACT
@@ -53,7 +53,7 @@ const HeaderSec = () => {
             </li>
             <li onClick={() => setshow(!show)}>
               <a
-                className="text-[#025066] uppercase  hover:font-medium transition-all duration-500 ease-linear font-normal text-[16px]"
+                className="text-[#025066] uppercase navlink transition-all duration-500 ease-linear font-normal text-[16px]"
                 href="#SHOP"
               >
                 SHOP
@@ -108,7 +108,6 @@ const HeaderSec = () => {
                   className="text-white font-bold xl:text-[72px] lg::text-[58px] md:text-[50px] text-[48px] max-lg:leading-[124.687%] leading-[100.687%] lg:pt-[14px] pt-0"
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 >
                   Morbi facilisis nulla purus, ac
@@ -117,7 +116,6 @@ const HeaderSec = () => {
                   className="xl:mt-10 lg:mt-8 md:mt-5 mt-3 text-white font-normal text-lg !leading-[139.687%] pb-5"
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 >
                   Mauris viverra justo et dictum mattis. Donec massa felis,
@@ -127,7 +125,6 @@ const HeaderSec = () => {
                 <div
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 >
                   <a
@@ -141,7 +138,6 @@ const HeaderSec = () => {
                   className="flex items-center gap-[14px] 2xl:mt-[170px] xl:mt-[100px] sm:mt-[50px] mt-8"
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 >
                   <a
@@ -174,7 +170,6 @@ const HeaderSec = () => {
                   className="!max-w-[941px] w-full absolute right-[-10px] max-h-[511px] max-3xl:ps-40 max-2xl:ps-60 max-xl:ps-96 max-lg:ps-10"
                   data-aos="fade-left"
                   data-aos-duration="1000"
-                  data-aos-delay="200"
                   data-aos-easing="linear"
                 />
               </div>

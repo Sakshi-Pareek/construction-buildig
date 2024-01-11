@@ -20,18 +20,24 @@ const LoremCard = () => {
     <>
       <div className="bg-[#025066]">
         <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 xl:pt-[77px] xl:pb-[85px] md:py-20 sm:py-14 py-12">
-          <div className="flex flex-row flex-wrap lg:justify-between justify-center lg:gap-0 md:gap-7 gap-4" id="BLOG">
+          <div
+            className="flex flex-row flex-wrap lg:justify-between justify-center lg:gap-0 md:gap-7 gap-4"
+            id="BLOG"
+          >
             {data.map((a, index) => (
               <div
                 className="lg:w-[31.8%] sm:w-[48%] group"
                 key={index}
                 data-aos="fade-up"
                 data-aos-duration="800"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 <div className="bg-white rounded-[5px] sm:p-3 p-2 group-hover:shadow-[0_3px_10px_rgba(225,_225,_225,_1)] transition-all duration-500 ease-linear group cursor-pointer">
-                  <img src={a.image} alt="cardimg" className="rounded-[5px] group-hover:scale-[0.99] transition-all duration-500 ease-linear" />
+                  <img
+                    src={a.image}
+                    alt="cardimg"
+                    className="w-full rounded-[5px] group-hover:scale-[0.99] transition-all duration-500 ease-linear"
+                  />
                   <h2 className="text-[#025066] text-[25px] font-bold leading-[139.687%] mb-2.5 mt-5">
                     Lorem ipsum dolo
                   </h2>

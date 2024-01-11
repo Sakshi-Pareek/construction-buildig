@@ -15,7 +15,6 @@ const OurServices = () => {
               className="xs:pt-[27px] xs:pb-[23px] py-3 xs:px-10 px-6 bg-stone-300 bg-opacity-0 border border-sky-900 flex flex-col items-center justify-between xl:w-[141px] sm:w-[100px] xs:w-[40px] w-[25px] xl:h-[519px] xs:h-[450px] h-[425px]"
               data-aos="fade-right"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               <p className="text-sky-900 xs:text-base text-sm font-bold">
@@ -32,7 +31,6 @@ const OurServices = () => {
                 className="text-black sm:mb-4 mb-2 text-[20px] font-medium leading-[117%]"
                 data-aos="fade-right"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 OUR SERVICES
@@ -41,7 +39,6 @@ const OurServices = () => {
                 className="text-[#025066] xl:text-[48px] xs:text-[32px] text-[28px]  font-bold leading-[117%] xl:mb-[38px] sm:mb-4 mb-2"
                 data-aos="fade-right"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 Construction building.
@@ -50,7 +47,6 @@ const OurServices = () => {
                 className="text-sky-900 text-opacity-70 sm:text-base text-sm font-normal leading-[139.687%] md:mb-[30px] mb-4"
                 data-aos="fade-right"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
@@ -67,10 +63,9 @@ const OurServices = () => {
               </p>
               <a
                 href=""
-                className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2"
+                className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2 "
                 data-aos="fade-right"
                 data-aos-duration="1000"
-                data-aos-delay="200"
                 data-aos-easing="linear"
               >
                 VIEW PROJECTS
@@ -85,7 +80,6 @@ const OurServices = () => {
               className="w-full lg:max-w-[503px] lg:ml-auto"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             />
           </div>

@@ -15,7 +15,7 @@ const MakeUnique = () => {
         <div className="flex flex-row flex-wrap lg:gap-0 md:gap-10 gap-6 lg:justify-between justify-center">
           <div className="xl:w-[60%] lg:w-[50%]">
             <div className="lg:mt-12 relative">
-              <img src={PoolSideHouse} alt="PoolSideHouse" />
+              <img src={PoolSideHouse} alt="PoolSideHouse" className="w-full"/>
               <div
                 onClick={() => setModal(true)}
                 className="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 cursor-pointer"
@@ -24,8 +24,8 @@ const MakeUnique = () => {
               </div>
               {modal ? (
                 <>
-                  <div className="fixed top-0 left-0 h-full w-full overflow-hidden flex items-center justify-center z-20">
-                    <div className=" bg-[#025066] rounded-[10px] relative sm:p-2 p-1">
+                  <div className="fixed bg-[#ffffffd9] backdrop-blur-sm top-0 left-0 h-full w-full overflow-hidden flex items-center justify-center z-20">
+                    <div className="bg-[#025066] rounded-[10px] relative sm:p-2 p-1">
                       <div
                         onClick={() => setModal(false)}
                         className="sm:w-[40px] sm:h-[40px] w-[25px] h-[25px] absolute top-0 right-0 translate-x-1/2 -translate-y-1/2 sm:mr-3 sm:mt-3 mr-1 mt-1 bg-[#025066] rounded-[100%] sm:p-2 p-1 flex justify-center items-center font-bold text-[#ffffff] cursor-pointer max-sm:text-sm"
@@ -50,7 +50,6 @@ const MakeUnique = () => {
               className="text-black text-[20px] font-medium leading-[120%] xl:mb-4 mb-2"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               MAKE UNIQUE
@@ -59,7 +58,6 @@ const MakeUnique = () => {
               className="text-[#025066] xl:text-[48px] xs:text-[32px] lg:ml-auto text-[28px] font-bold leading-[110%] xl:w-[376px]"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Solutions interior design
@@ -68,7 +66,6 @@ const MakeUnique = () => {
               className="text-[#4E8594] xs:text-base text-sm font-normal leading-[138%] xl:mt-6 mt-3 xl:mb-[31px] mb-3 xl:max-w-[365px] lg:ml-auto"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
@@ -88,7 +85,6 @@ const MakeUnique = () => {
               className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2 lg:float-right"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               VIEW PROJECTS

@@ -4,7 +4,6 @@
   animation: animateDiv 1s linear infinite;
   animation-direction: alternate;
 }
-
 @keyframes animateDiv {
   0% {
     transform: translateY(-5px);
@@ -34,22 +33,22 @@
     background-position: 250% 0, 250% 0;
   }
 }
-.element {
-  animation: nudge 4s linear infinite alternate;
-  position: absolute;
-  transform: translateY(0);
-}
-
-@keyframes nudge {
-  100% {
-    transform: translateY(-20px);
-  }
-}
-.bg_blur {
-  filter: blur(10px);
-}
 @media (max-width: 768px) {
   .overflow_hidden {
     overflow: hidden;
   }
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #025066;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #096a85;
+  border-radius: 10px;
+}
+.navlink:hover {
+  -webkit-text-stroke: 0.4px;
 }

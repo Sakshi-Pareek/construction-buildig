@@ -9,7 +9,6 @@ const WorkGallery = () => {
             className="2xl:pt-[27px] 2xl:pb-[23px] xl:py-4 py-3 xs:px-10 px-6 bg-stone-300 bg-opacity-0 border border-sky-900 md:flex flex-col items-center justify-between 2xl:w-[136px] xl:w-[120px] sm:w-[100px] xs:w-[40px] w-[25px] 2xl:h-[519px] xl:h-[400px] lg:h-[380px] h-[330px] hidden mb-4"
             data-aos="fade-right"
             data-aos-duration="1000"
-            data-aos-delay="200"
             data-aos-easing="linear"
           >
             <p className="text-sky-900 2xl:text-base lg:text-sm text-xs font-bold">
@@ -31,7 +30,6 @@ const WorkGallery = () => {
               className="text-[#025066] lg:text-right lg:ml-auto xl:text-[48px] xs:text-[32px] text-[28px] font-bold leading-[117%] lg:w-[482px] lg:mb-[51px] mb-4"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Our Portfolio Gallery
@@ -40,7 +38,6 @@ const WorkGallery = () => {
               className="text-[#4E8594] lg:text-right font-normal text-base leading-[139.687%] mb-7 lg:w-[656px]"
               data-aos="fade-left"
               data-aos-duration="1000"
-              data-aos-delay="200"
               data-aos-easing="linear"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
@@ -54,7 +51,6 @@ const WorkGallery = () => {
             className="xs:ps-[27px] xs:pe-[23px] p-3 bg-stone-300 bg-opacity-0 border border-sky-900 flex items-center justify-between w-full md:hidden mb-12"
             data-aos="fade-right"
             data-aos-duration="1000"
-            data-aos-delay="200"
             data-aos-easing="linear"
           >
             <p className="text-sky-900 xs:text-base text-sm font-bold">

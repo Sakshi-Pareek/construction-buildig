@@ -38,44 +38,44 @@ const FooterSec = () => {
             <div className="xl:w-[30%] lg:w-[45%] w-full flex justify-between">
               <ul className="flex flex-col gap-[17px]">
                 <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Renovation</a>
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Renovation</a>
                 </li>
                 <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Carpentry</a>
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Carpentry</a>
                 </li>
                 <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Tiling</a>
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Tiling</a>
                 </li>
                 <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Ceiling</a>
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Ceiling</a>
                 </li>
               </ul>
               <ul className="flex flex-col gap-[17px]">
                 <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Renovation</a>
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Renovation</a>
                 </li>
                 <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Carpentry</a>
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Carpentry</a>
+                </li>
+                <li className="text-white text-base font-normal leading-[138%] group">
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Tiling</a>
+                </li>
+                <li className="text-white text-base font-normal leading-[138%] group">
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Ceiling</a>
+                </li>
+              </ul>
+              <ul className="flex flex-col gap-[17px]">
+                <li className="text-white text-base font-normal leading-[138%] group">
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Renovation</a>
+                </li>
+                <li className="text-white text-base font-normal leading-[138%] group">
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Carpentry</a>
                 </li>
                 <li className="text-white text-base font-normal leading-[138%] group">
                   <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Tiling</a>
                 </li>
                 <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Ceiling</a>
-                </li>
-              </ul>
-              <ul className="flex flex-col gap-[17px]">
-                <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Renovation</a>
-                </li>
-                <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out"> Carpentry</a>
-                </li>
-                <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Tiling</a>
-                </li>
-                <li className="text-white text-base font-normal leading-[138%] group">
-                  <a href="" className=" after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Ceiling</a>
+                  <a href="" className="after:w-0 after:h-[2px] after:bg-white after:absolute relative after:left-0 after:bottom-[-2px] group-hover:after:w-full after:duration-500 after:ease-in-out">Ceiling</a>
                 </li>
               </ul>
             </div>
