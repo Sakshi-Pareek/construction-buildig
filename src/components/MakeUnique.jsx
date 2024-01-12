@@ -80,16 +80,15 @@ const MakeUnique = () => {
               amet libero vulputate, faucibus purus et, vestibulum sem. Nunc ac
               nulla erat. Nulla facilis
             </p>
-            <a
-              href=""
-              className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2 lg:float-right"
+            <button
+              className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center cursor-pointer gap-2 lg:float-right"
               data-aos="fade-left"
               data-aos-duration="1000"
               data-aos-easing="linear"
             >
               VIEW PROJECTS
               <TriangleIcon />
-            </a>
+            </button>
           </div>
         </div>
       </div>

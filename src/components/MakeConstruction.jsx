@@ -42,8 +42,7 @@ const MakeConstruction = () => {
               amet libero vulputate, faucibus purus et, vestibulum sem. Nunc ac
               nulla erat. Nulla facilis
             </p>
-            <a
-              href=""
+            <button
               className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2"
               data-aos="fade-right"
               data-aos-duration="1000"
@@ -51,13 +50,14 @@ const MakeConstruction = () => {
             >
               VIEW PROJECTS
               <TriangleIcon />
-            </a>
+            </button>
           </div>
           <div className="xl:w-[60%] lg:w-[50%]">
             <div className="lg:mt-12">
               <img
                 src={HouseWithShadow}
-                alt="HouseWithShadow" className="w-full"
+                alt="HouseWithShadow"
+                className="w-full"
                 data-aos="fade-left"
                 data-aos-duration="1000"
                 data-aos-easing="linear"

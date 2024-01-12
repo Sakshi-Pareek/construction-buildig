@@ -61,16 +61,15 @@ const OurServices = () => {
                 ut. Nam sit amet libero vulputate, faucibus purus et, vestibulum
                 sem. Nunc ac nulla erat. Nulla facilis
               </p>
-              <a
-                href=""
-                className="text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2 "
+              <button
+                className="cursor-pointer text-[#025066] text-base !leading-[120.187%] font-bold flex items-center gap-2 "
                 data-aos="fade-right"
                 data-aos-duration="1000"
                 data-aos-easing="linear"
               >
                 VIEW PROJECTS
                 <TriangleIcon />
-              </a>
+              </button>
             </div>
           </div>
           <div className="lg:w-[40%] flex flex-col lg:justify-end justify-center">

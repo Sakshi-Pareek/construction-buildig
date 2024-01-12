@@ -43,7 +43,7 @@ const BuildingGallery = () => {
                 <img
                   src={a.image}
                   alt="cardimg"
-                  className="hover:shadow-[2px_5px_8px_#333333] transition-all duration-300 ease-linear cursor-pointer w-full"
+                  className="hover:shadow-[2px_5px_8px_#333333] transition-all duration-300 ease-linear cursor-pointer w-full 2xl:max-w-[409.58px]"
                 />
               </div>
             ))}

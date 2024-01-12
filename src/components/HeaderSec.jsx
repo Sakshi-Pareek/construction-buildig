@@ -60,13 +60,13 @@ const HeaderSec = () => {
               </a>
             </li>
             <li className="md:block hidden">
-              <a href="https//:www.google.com" target="_blank">
+              <a href="https://www.google.com" target="_blank">
                 <SearchIcon />
               </a>
             </li>
           </ul>
           <div className="md:hidden block me-5">
-            <a href="https//:www.google.com" target="_blank">
+            <a href="https://www.google.com" target="_blank">
               <SearchIcon />
             </a>
           </div>
@@ -141,7 +141,7 @@ const HeaderSec = () => {
                   data-aos-easing="linear"
                 >
                   <a
-                    href="http://www.facebook.com"
+                    href="https://www.facebook.com"
                     target="_blank"
                     className="group"
                   >
