@@ -10,7 +10,7 @@ const FooterSec = () => {
           <div className="flex flex-row flex-wrap justify-between items-center lg:gap-0 gap-10">
             <div className="lg:w-[40%]">
               <a href="#">
-                <img src={Logo} alt="Logo" width="87px" />
+                <img src={Logo} alt="Logo" width="87px"  />
               </a>
               <p className="text-white text-base font-normal leading-[139.687%] lg:max-w-[433px] lg:my-8 my-4">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
